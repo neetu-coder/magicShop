@@ -1,1 +1,1 @@
-# magicShop
+# Box Class
